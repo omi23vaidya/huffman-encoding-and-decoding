@@ -1,0 +1,2 @@
+# huffman-encoding-and-decoding
+Use of Huffman coding to reduce data size while transferring enormous amount of data. First step is to identify which of the following priority queue structures: binary heap, 4-way cache optimized heap and pairing heap gives the best performance for generating Huffman codes. The encoder reads the input file and gives a compressed version of input file and code table. The decoder takes the encoded message and code table as input, constructs decode tree and generates a decoded message from the decode tree.  
